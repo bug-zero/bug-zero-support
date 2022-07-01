@@ -1,8 +1,6 @@
----
-description: Welcome to Bug Zero Support Site!
----
-
 # Home
+
+### Welcome to Bug Zero Support Site!
 
 This is where you can get familiar with Bug Zero and explore our product features. We provide some tips here that you might find useful. This site is open to all and we welcome your feedback!
 
