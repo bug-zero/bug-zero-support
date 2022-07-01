@@ -4,7 +4,7 @@ description: 'As a hacker:'
 
 # Hacker Support
 
-![](<../.gitbook/assets/image (2).png>)
+![](https://www.scorelab.org/bugzero-supports/assets/images/image\_hack.png)
 
 The main responsibility of a hacker who participates in a bug bounty program is the finding security vulnerabilities or software bugs and responsibly disclosing it to that company’s security team in an ethical way. In this process, we, Bug Zero act as an inter-medium between hackers and companies.
 
