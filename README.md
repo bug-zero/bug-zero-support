@@ -16,6 +16,12 @@ If you are a hacker and want to learn more about the security vulnerability ecos
 
 If you are an organization that has sensitive information to guard and no internal staff to find security bugs (vulnerabilities), you can use Bug Zero to hire infosec professionals and only pay for what they find.
 
+#### Choose which tab you’d like to explore for more details. <a href="#choose-which-tab-youd-like-to-explore-for-more-details" id="choose-which-tab-youd-like-to-explore-for-more-details"></a>
+
+| For Hackers                                                                                                                                     | For Organizations                                                                                                                                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [![hacker](https://scorelab.org/bugzero-supports/assets/images/image\_hack.png)](https://www.scorelab.org/bugzero-supports/docs/hacker-support) | [![company](https://scorelab.org/bugzero-supports/assets/images/image.png)](https://www.scorelab.org/bugzero-supports/docs/organization-support) |
+
 #### How to Contribute? <a href="#how-to-contribute" id="how-to-contribute"></a>
 
 When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/scorelab/bugzero-supports/blob/master/README.md).
