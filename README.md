@@ -8,7 +8,7 @@ This is where you can get familiar with Bug Zero and explore our product feature
 
 #### Who are we? <a href="#who-are-we" id="who-are-we"></a>
 
-We, at Bug Zero provide end to end support for every [bug bounty programs](https://www.scorelab.org/bugzero-supports/docs/bug-bounty-program).
+We, at Bug Zero provide end to end support for every [bug bounty programs](https://bugzero-gitbook.gitbook.io/bugzero/bug-bounty-program).
 
 If you are a hacker and want to learn more about the security vulnerability ecosystem, we provide a platform to learn security by testing real-world systems while earning money for security bugs you find. We also provide essential security training materials to help become a renowned infosec professional.
 
