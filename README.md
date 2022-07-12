@@ -22,7 +22,7 @@ If you are an organization that has sensitive information to guard and no intern
 
 #### How to Contribute? <a href="#how-to-contribute" id="how-to-contribute"></a>
 
-When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/scorelab/bugzero-supports/blob/master/README.md).
+When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in our GitBook.
 
 **THANK YOU TO THE CONTRIBUTORS OF BUG ZERO DOCUMENTATION**
 
