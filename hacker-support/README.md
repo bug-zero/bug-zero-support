@@ -19,11 +19,11 @@ As an overall, the main functions which Bug Zero providing for the hackers can b
 
 TABLE OF CONTENTS
 
-* [Hacker Start-Up Guide](https://www.scorelab.org/bugzero-supports/docs/hacker-support/hacker-start/)
-* [Password Best Practices](https://www.scorelab.org/bugzero-supports/docs/hacker-support/password-best-practic/)
-* [Private vs Public Programs](https://www.scorelab.org/bugzero-supports/docs/hacker-support/private-vs-public-programs/)
-* [Profile](https://www.scorelab.org/bugzero-supports/docs/hacker-support/profile/)
-* [Submitting Reports](https://www.scorelab.org/bugzero-supports/docs/hacker-support/submitting-reports/)
+* [Hacker Start-Up Guide](https://support.bugzero.io/hacker-support/hacker-start-up-guide)
+* [Password Best Practices](https://support.bugzero.io/hacker-support/password-best-practices)
+* [Private vs Public Programs](https://support.bugzero.io/hacker-support/private-vs-public-programs)
+* [Profile](https://support.bugzero.io/hacker-support/profile)
+* [Submitting Reports](https://support.bugzero.io/hacker-support/submitting-reports)
 
 \
 \

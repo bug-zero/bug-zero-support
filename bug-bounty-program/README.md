@@ -46,4 +46,4 @@ After the company receives the detailed report and the fix, the researcher who f
 
 ### TABLE OF CONTENTS
 
-* [Bug Bounty Myths](https://www.scorelab.org/bugzero-supports/docs/bug-bounty/bug-bounty-myths/)
+* [Bug Bounty Myths](https://support.bugzero.io/bug-bounty-program/bug-bounty-myths)

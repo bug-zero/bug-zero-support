@@ -2,6 +2,6 @@
 
 ### TABLE OF CONTENTS
 
-* [Bug Zero Points](https://www.scorelab.org/bugzero-supports/docs/hacker-support/bug-zero-points/)
-* [Payments](https://www.scorelab.org/bugzero-supports/docs/hacker-support/payments/)
-* [Notifications](https://www.scorelab.org/bugzero-supports/docs/hacker-support/notifications/)
+* [Bug Zero Points](https://support.bugzero.io/hacker-support/profile/bug-zero-points)
+* [Payments](https://support.bugzero.io/hacker-support/profile/payments)
+* [Notifications](https://support.bugzero.io/hacker-support/profile/notifications)

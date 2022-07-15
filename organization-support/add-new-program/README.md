@@ -43,4 +43,4 @@ To view and edit your existing scope:
 
 ### TABLE OF CONTENTS
 
-* [Submit Report Form](https://www.scorelab.org/bugzero-supports/docs/organization-support/submit-report-form/)
+* [Submit Report Form](https://support.bugzero.io/organization-support/add-new-program/submit-report-form)

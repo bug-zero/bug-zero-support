@@ -17,8 +17,8 @@ For organizations, Bug Zero provides;
 
 ### TABLE OF CONTENTS
 
-* [Program Start-Up Guide](https://www.scorelab.org/bugzero-supports/docs/organization-support/program-start/)
-* [New Program](https://www.scorelab.org/bugzero-supports/docs/organization-support/new\_program/)
-* [Report Management](https://www.scorelab.org/bugzero-supports/docs/organization-support/report-management/)
+* [Program Start-Up Guide](https://support.bugzero.io/organization-support/program-start-up-guide)
+* [New Program](https://support.bugzero.io/organization-support/add-new-program)
+* [Report Management](https://support.bugzero.io/organization-support/report-management)
 
 \
