@@ -6,6 +6,7 @@
   * [Password Best Practices](hacker-support/password-best-practices.md)
   * [Private vs Public Programs](hacker-support/private-vs-public-programs.md)
   * [Profile](hacker-support/profile/README.md)
+    * [Hacker Dashboard](hacker-support/profile/hacker-dashboard.md)
     * [Bug Zero Points](hacker-support/profile/bug-zero-points.md)
     * [Payments](hacker-support/profile/payments.md)
     * [Notifications](hacker-support/profile/notifications.md)
