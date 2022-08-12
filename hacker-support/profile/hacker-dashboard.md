@@ -41,7 +41,7 @@ For each program you have an invite to, you can view these options. Click **View
 
 The Followings tab enables you to view the list of programs that you've followed. This enables you to better keep track of the programs you're most interested in.
 
-![Followings](<../../.gitbook/assets/image (3).png>)
+![Followings](<../../.gitbook/assets/image (3) (1).png>)
 
 ### Rewards
 
@@ -53,6 +53,6 @@ The Rewards tab enables you to view all the bounties and Swag you've earned. It 
 * Awarded Bounty Amount
 * Status
 
-In the Swag tab only Awarded Bounty Amount will be removed.
+In the Swag tab only Awarded Bounty Amount does not exist.
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (3).png>)
