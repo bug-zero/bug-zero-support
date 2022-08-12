@@ -15,13 +15,13 @@ Each program is consists of
 * Minimum Bounty
 * Average Bounty
 
-![My Programs](<../../.gitbook/assets/image (1).png>)
+![My Programs](<../.gitbook/assets/image (1) (1).png>)
 
 ### My ZeroFeed
 
 My Zerofeed tab enables you to view all the reports you've submitted.&#x20;
 
-![My ZeroFeed](<../../.gitbook/assets/image (2).png>)
+![My ZeroFeed](<../.gitbook/assets/image (2) (2).png>)
 
 ### Program Invitations
 
@@ -41,7 +41,7 @@ For each program you have an invite to, you can view these options. Click **View
 
 The Followings tab enables you to view the list of programs that you've followed. This enables you to better keep track of the programs you're most interested in.
 
-![Followings](<../../.gitbook/assets/image (3) (1).png>)
+![Followings](<../.gitbook/assets/image (3) (1).png>)
 
 ### Rewards
 
@@ -55,4 +55,4 @@ The Rewards tab enables you to view all the bounties and Swag you've earned. It 
 
 In the Swag tab only Awarded Bounty Amount does not exist.
 
-![](<../../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3).png>)
