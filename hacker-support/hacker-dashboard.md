@@ -15,13 +15,13 @@ Each program is consists of
 * Minimum Bounty
 * Average Bounty
 
-![My Programs](<../.gitbook/assets/image (1) (1).png>)
+![My Programs](<../.gitbook/assets/image (1) (1) (2).png>)
 
 ### My ZeroFeed
 
 My Zerofeed tab enables you to view all the reports you've submitted.&#x20;
 
-![My ZeroFeed](<../.gitbook/assets/image (2) (2).png>)
+![My ZeroFeed](<../.gitbook/assets/image (2) (2) (1).png>)
 
 ### Program Invitations
 

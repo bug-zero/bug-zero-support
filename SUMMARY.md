@@ -18,7 +18,5 @@
     * [Submit Report Form](organization-support/add-new-program/submit-report-form.md)
   * [Report Management](organization-support/report-management.md)
     * [Disclosure](organization-support/report-management/disclosure.md)
-    * [Full Disclosure](organization-support/report-management/full-disclosure.md)
-    * [Summary Disclosure](organization-support/report-management/summary-disclosure.md)
 * [Bug Bounty Program](bug-bounty-program/README.md)
   * [Bug Bounty Myths](bug-bounty-program/bug-bounty-myths.md)

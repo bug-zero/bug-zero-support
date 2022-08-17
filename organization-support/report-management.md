@@ -80,4 +80,4 @@ After a report is closed you can grant rewards to the hacker:\
 * Bounty - You can enter amount of the bounty
 * Swag - You can select to reward the swag
 
-![Rewards](../.gitbook/assets/image.png)
+![Rewards](<../.gitbook/assets/image (6).png>)

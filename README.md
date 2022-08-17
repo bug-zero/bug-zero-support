@@ -23,12 +23,3 @@ If you are an organization that has sensitive information to guard and no intern
 #### How to Contribute? <a href="#how-to-contribute" id="how-to-contribute"></a>
 
 When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in [our GitBook](https://support.bugzero.io).
-
-**THANK YOU TO THE CONTRIBUTORS OF BUG ZERO DOCUMENTATION**
-
-****[<img src="https://avatars1.githubusercontent.com/u/43230023?v=4" alt="JanukaD" data-size="line">](https://github.com/JanukaD)
-
-[<img src="https://avatars2.githubusercontent.com/u/700745?v=4" alt="charithccmc" data-size="line">](https://github.com/charithccmc)
-
-
-

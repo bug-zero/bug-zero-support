@@ -15,6 +15,6 @@ After report have been closed:
 | Full    | <p>With full disclosure, all the contents of the report will be publicly visible including:</p><ul><li>Information about vulnerability</li><li>Summary</li><li>Timeline (this includes comments and attachments)</li></ul> |
 | Summary | Only the activity summary and timeline are displayed. All comments and attachments have been hidden. Limited disclosure gives you more control over sensitive or irrelevant information.                                   |
 
-![Disclosure](<../../.gitbook/assets/image (6).png>)
+![Disclosure](<../../.gitbook/assets/image (2).png>)
 
 4\. Finally can give confirmation for disclosure or cancel it.&#x20;
