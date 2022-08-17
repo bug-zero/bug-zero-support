@@ -6,10 +6,10 @@ description: Report Actions
 
 Hackers can submit vulnerabilities to your program through [submitting reports](https://support.bugzero.io/hacker-support/submitting-reports) option. You can manage all incoming reports through your Inbox by taking the flowing actions:
 
-* [Add comments](./#add-comments)
-* [Close a Report](./#close-a-report)
-* [Request more details](./#request-more-details)
-* [Change the state of report as _Triaged_](./#change-the-state-of-report-as-triaged)
+* [Add comments](report-management.md#add-comments)
+* [Close a Report](report-management.md#close-a-report)
+* [Request more details](report-management.md#request-more-details)
+* [Change the state of report as _Triaged_](report-management.md#change-the-state-of-report-as-triaged)
 
 ![report\_actions](https://www.scorelab.org/bugzero-supports/assets/images/report\_actions.PNG)
 
@@ -70,4 +70,14 @@ To close a report:\
 
 ![report-action-5](https://www.scorelab.org/bugzero-supports/assets/images/report\_close.PNG)
 
-### &#x20;<a href="#request-more-details" id="request-more-details"></a>
+### Grant Rewards
+
+After a report is closed you can grant rewards to the hacker:\
+1\) Go to the bottom of the report above the comment box.\
+2\) Select **Grant Rewards** in the action picker.\
+3\) Select the reward type:
+
+* Bounty - You can enter amount of the bounty
+* Swag - You can select to reward the swag
+
+![Rewards](../.gitbook/assets/image.png)
