@@ -6,10 +6,10 @@ description: Report Actions
 
 Hackers can submit vulnerabilities to your program through [submitting reports](https://support.bugzero.io/hacker-support/submitting-reports) option. You can manage all incoming reports through your Inbox by taking the flowing actions:
 
-* [Add comments](report-management.md#add-comments)
-* [Close a Report](report-management.md#close-a-report)
-* [Request more details](report-management.md#request-more-details)
-* [Change the state of report as _Triaged_](report-management.md#change-the-state-of-report-as-triaged)
+* [Add comments](./#add-comments)
+* [Close a Report](./#close-a-report)
+* [Request more details](./#request-more-details)
+* [Change the state of report as _Triaged_](./#change-the-state-of-report-as-triaged)
 
 ![report\_actions](https://www.scorelab.org/bugzero-supports/assets/images/report\_actions.PNG)
 
@@ -24,14 +24,35 @@ To add a comment:\
 
 ![report-actions-2](https://www.scorelab.org/bugzero-supports/assets/images/report\_comment.PNG)
 
-### Close a Report <a href="#close-a-report" id="close-a-report"></a>
+### Change the state of report as **Triaged** <a href="#change-the-state-of-report-as-triaged" id="change-the-state-of-report-as-triaged"></a>
+
+You can change the state of a report as _Triaged_. That’s mean the report has passed the initial validation and is pending resolution. When you select triage, you can enter the reference ID to your integration in the Reference ID field.
+
+To change the state of a report:\
+1\) Go to the bottom of the report.\
+2\) Change the action picker to **Triaged** from the drop-down.\
+3\) Add a new reference ID for the report.\
+4\) Click **Change Report State** button.
+
+![report-action-3](https://www.scorelab.org/bugzero-supports/assets/images/report\_triaged.PNG)
+
+### Request more details <a href="#request-more-details" id="request-more-details"></a>
+
+You can request more details if you needs more information from the hacker before proceeding. For that you can send back report to the hacker by applying this action to the report.
+
+To request more details:\
+1\) Go to the bottom of the report above the comment box.\
+2\) Select **Need More Details** in the action picker.\
+3\) Click **Request More Details** button.
+
+![report-action-4](https://www.scorelab.org/bugzero-supports/assets/images/report\_details.PNG)
+
+### Close a Report
 
 You can close a report to mark that it’s either:\
 
 
-![report-actions-d](https://www.scorelab.org/bugzero-supports/assets/images/diagram.png)\
-\
-
+![](https://www.scorelab.org/bugzero-supports/assets/images/diagram.png)
 
 | State      | Details                                                                                                                                                                                                |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -47,29 +68,6 @@ To close a report:\
 3\) Choose the status of the report which reasoned to the close report.\
 4\) Click **Close report** button.
 
-![report-action-3](https://www.scorelab.org/bugzero-supports/assets/images/report\_close.PNG)
+![report-action-5](https://www.scorelab.org/bugzero-supports/assets/images/report\_close.PNG)
 
-### Request more details <a href="#request-more-details" id="request-more-details"></a>
-
-You can request more details if you needs more information from the hacker before proceeding. For that you can send back report to the hacker by applying this action to the report.
-
-To request more details:\
-1\) Go to the bottom of the report above the comment box.\
-2\) Select **Need More Details** in the action picker.\
-3\) Click **Request More Details** button.
-
-![report-action-4](https://www.scorelab.org/bugzero-supports/assets/images/report\_details.PNG)
-
-### Change the state of report as **Triaged** <a href="#change-the-state-of-report-as-triaged" id="change-the-state-of-report-as-triaged"></a>
-
-You can change the state of a report as _Triaged_. That’s mean the report has passed the initial validation and is pending resolution. When you select triage, you can enter the reference ID to your integration in the Reference ID field.
-
-To change the state of a report:\
-1\) Go to the bottom of the report.\
-2\) Change the action picker to **Triaged** from the drop-down.\
-3\) Add a new reference ID for the report.\
-4\) Click **Change Report State** button.
-
-![report-action-5](https://www.scorelab.org/bugzero-supports/assets/images/report\_triaged.PNG)
-
-\
+### &#x20;<a href="#request-more-details" id="request-more-details"></a>
