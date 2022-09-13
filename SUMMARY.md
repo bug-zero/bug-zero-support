@@ -14,6 +14,8 @@
   * [Submitting Reports](hacker-support/submitting-reports.md)
 * [Organization Support](organization-support/README.md)
   * [Program Start-Up Guide](organization-support/program-start-up-guide.md)
+  * [Programs ZeroFeed](organization-support/programs-zerofeed.md)
+  * [Hackers](organization-support/hackers.md)
   * [Add new Program](organization-support/add-new-program/README.md)
     * [Submit Report Form](organization-support/add-new-program/submit-report-form.md)
   * [Program Setup](organization-support/program-setup.md)

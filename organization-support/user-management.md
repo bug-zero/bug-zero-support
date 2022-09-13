@@ -20,7 +20,7 @@ To remove a user from the organization:
 2. Find the user that you want to remove
 3. Click the remove user to delete the user from the organization
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Manage Groups
 
