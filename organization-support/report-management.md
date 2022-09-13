@@ -4,7 +4,7 @@ description: Report Actions
 
 # Report Management
 
-Hackers can submit vulnerabilities to your program through [submitting reports](https://support.bugzero.io/hacker-support/submitting-reports) option. You can manage all incoming reports through your Inbox by taking the flowing actions:
+Hackers can submit vulnerabilities to your program through [submitting reports](../hacker-support/submitting-reports.md) option. You can manage all incoming reports through your Inbox by taking the flowing actions:
 
 * [Add comments](report-management.md#add-comments)
 * [Close a Report](report-management.md#close-a-report)

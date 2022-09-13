@@ -1,7 +1,5 @@
 # Bug Bounty Program
 
-
-
 ## What is a Bug Bounty Program? <a href="#what-is-a-bug-bounty-program" id="what-is-a-bug-bounty-program"></a>
 
 ![bug\_bounty](https://www.scorelab.org/bugzero-supports/assets/images/Bug-Bounty-Program.png)
@@ -46,4 +44,4 @@ After the company receives the detailed report and the fix, the researcher who f
 
 ### TABLE OF CONTENTS
 
-* [Bug Bounty Myths](https://support.bugzero.io/bug-bounty-program/bug-bounty-myths)
+* [Bug Bounty Myths](bug-bounty-myths.md)

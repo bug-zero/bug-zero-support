@@ -2,6 +2,6 @@
 
 ### TABLE OF CONTENTS
 
-* [Bug Zero Points](https://support.bugzero.io/hacker-support/profile/bug-zero-points)
-* [Payments](https://support.bugzero.io/hacker-support/profile/payments)
-* [Notifications](https://support.bugzero.io/hacker-support/profile/notifications)
+* [Bug Zero Points](bug-zero-points.md)
+* [Payments](https://app.gitbook.com/s/j12M40tW6WFVWNRVaM1b/)
+* [Notifications](notifications.md)

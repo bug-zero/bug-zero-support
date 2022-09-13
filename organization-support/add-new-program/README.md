@@ -39,8 +39,6 @@ To view and edit your existing scope:
 | Threat Level            | <p>Select the threat level from these options.<br><strong>Critical, High, Medium, Low &#x26; None</strong>.</p>                           |
 | Instructions            | Provide an additional instruction.                                                                                                        |
 
-***
-
 ### TABLE OF CONTENTS
 
-* [Submit Report Form](https://support.bugzero.io/organization-support/add-new-program/submit-report-form)
+* [Submit Report Form](submit-report-form.md)

@@ -8,7 +8,7 @@ This is where you can get familiar with Bug Zero and explore our product feature
 
 #### Who are we? <a href="#who-are-we" id="who-are-we"></a>
 
-We, at Bug Zero provide end to end support for every [bug bounty programs](https://bugzero-gitbook.gitbook.io/bugzero/bug-bounty-program).
+We, at Bug Zero provide end to end support for every [bug bounty programs](bug-bounty-program/).
 
 If you are a hacker and want to learn more about the security vulnerability ecosystem, we provide a platform to learn security by testing real-world systems while earning money for security bugs you find. We also provide essential security training materials to help become a renowned infosec professional.
 
@@ -22,4 +22,4 @@ If you are an organization that has sensitive information to guard and no intern
 
 #### How to Contribute? <a href="#how-to-contribute" id="how-to-contribute"></a>
 
-When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in [our GitBook](https://support.bugzero.io).
+When contributing to Bug Zero Documentation repository, please first discuss the change you wish to make via issue with the owners of this repository before making a change. Read more about becoming a contributor in [our GitBook](https://app.gitbook.com/s/gZAOy3TLp8cJSb4yyJtY/).
