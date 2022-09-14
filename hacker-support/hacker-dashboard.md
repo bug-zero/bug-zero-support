@@ -55,4 +55,4 @@ The Rewards tab enables you to view all the bounties and Swag you've earned. It 
 
 In the Swag tab only Awarded Bounty Amount does not exist.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (2).png>)

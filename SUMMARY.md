@@ -13,6 +13,7 @@
     * [Notifications](hacker-support/profile/notifications.md)
   * [Submitting Reports](hacker-support/submitting-reports.md)
 * [Organization Support](organization-support/README.md)
+  * [Rewards](organization-support/rewards.md)
   * [Program Start-Up Guide](organization-support/program-start-up-guide.md)
   * [Programs ZeroFeed](organization-support/programs-zerofeed.md)
   * [Hackers](organization-support/hackers.md)
